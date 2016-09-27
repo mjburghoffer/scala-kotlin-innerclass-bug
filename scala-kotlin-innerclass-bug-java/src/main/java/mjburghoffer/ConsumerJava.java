@@ -1,4 +1,4 @@
-package com.salesforceiq;
+package mjburghoffer;
 
 public final class ConsumerJava {
 

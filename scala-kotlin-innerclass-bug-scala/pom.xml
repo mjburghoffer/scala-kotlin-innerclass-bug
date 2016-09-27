@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <parent>
     <artifactId>scala-kotlin-innerclass-bug</artifactId>
-    <groupId>com.salesforceiq</groupId>
+    <groupId>mjburghoffer</groupId>
     <version>1.0-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
@@ -13,11 +13,11 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.salesforceiq</groupId>
+      <groupId>mjburghoffer</groupId>
       <artifactId>scala-kotlin-innerclass-bug-java</artifactId>
     </dependency>
     <dependency>
-      <groupId>com.salesforceiq</groupId>
+      <groupId>mjburghoffer</groupId>
       <artifactId>scala-kotlin-innerclass-bug-kotlin</artifactId>
     </dependency>
     <dependency>
